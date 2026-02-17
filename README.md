@@ -1,7 +1,7 @@
 # SimplySplit
 Split Keyboard with reversible pcb
 
-#BOM
+# BOM
 | Item            | Description        | Quantity | Unit price | Total price | Price + tax | Running total | Link       |
 | --------------- | ------------------ | -------- | ---------- | ----------- | ----------- | ------------- | ---------- |
 | Keycaps         | CFX, White         | 40       | $0.33      | $13.07      | $14.77      | $14.77        | [AliExpress](https://www.aliexpress.us/item/3256810199199272.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.23.51667HnN7HnNaF&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=384d1b43-ab82-45ca-9332-caee7cd0b6ae&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:384d1b43-ab82-45ca-9332-caee7cd0b6ae,tpp_buckets:668%232846%238107%231934&pdp_ext_f=%7B"order"%3A"22"%2C"eval"%3A"1"%2C"sceneId"%3A"30050"%2C"fromPage"%3A"recommend"%7D&pdp_npi=6%40dis%21USD%219.70%210.99%21%21%219.70%210.99%21%402101ea8c17712834864303402ea509%2112000052228852471%21rec%21US%21%21ABXZ%211%210%21n_tag%3A-29910%3Bd%3A5299cee1%3Bm03_new_user%3A-29895%3BpisId%3A5000000197847450&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005010385514024%7C_p_origin_prod%3A) |
