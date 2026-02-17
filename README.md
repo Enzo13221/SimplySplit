@@ -1,6 +1,14 @@
 # SimplySplit
-Split Keyboard with reversible pcb
+This is my low profile split keyboard. I made this because I really wanted to make a keyboard but also didnt want it to be too simple. This is why I made a bluetooth split keyboard. Because of it's small form factor it can "fit" into your pocket. This is useful as I really enjoy using my old RasPi on the go and a bt keyboard is realy useful.
 
+## Images
+![Final Render Front](Images\FinalRender.png)
+(If you noticed that the connector for the Battery is being clipped by the top plate I decided to not use the connector but leave the footprint there as an option)
+![Final Render Back](Images\FinalRender(Back).png)
+
+![Cost](Images\cost.png)
+
+![Final](images\final.png)
 # BOM
 | Item            | Description        | Quantity | Unit price | Total price | Price + tax | Running total | Link       |
 | --------------- | ------------------ | -------- | ---------- | ----------- | ----------- | ------------- | ---------- |
