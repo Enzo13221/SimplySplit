@@ -14,6 +14,10 @@ This is my low profile split keyboard. I made this because I really wanted to ma
 
 <img width="1918" height="938" alt="image" src="https://github.com/user-attachments/assets/9e862417-6b98-486a-ac5b-63b5f2d21f95" />
 
+# Firmware can be found here
+
+https://github.com/Enzo13221/zmk-config/tree/main 
+
 # BOM
 | Item            | Description        | Quantity | Unit price | Total price | Price + tax | Running total | Link       |
 | --------------- | ------------------ | -------- | ---------- | ----------- | ----------- | ------------- | ---------- |
