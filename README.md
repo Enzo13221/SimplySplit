@@ -2,16 +2,21 @@
 This is my low profile split keyboard. I made this because I really wanted to make a keyboard but also didnt want it to be too simple. This is why I made a bluetooth split keyboard. Because of it's small form factor it can "fit" into your pocket. This is useful as I really enjoy using my old RasPi on the go and a bt keyboard is realy useful.
 
 ## Images
-![Final Render Front](https://github.com/Enzo13221/SimplySplit/blob/main/Images/FinalRender.PNG?raw=true)
+![Final Render w Case Top](https://github.com/Enzo13221/SimplySplit/blob/main/Images/Finalreder_w_casetop.PNG?raw=true)
+
+![Final Render w Case Bottom](https://github.com/Enzo13221/SimplySplit/blob/main/Images/Finalrender_w_casebottom.PNG?raw=true)
 
 (If you noticed that the connector for the Battery is being clipped by the top plate I decided to not use the connector but leave the footprint there as an option)
+
+![Case Final](https://github.com/Enzo13221/SimplySplit/blob/main/Images/CaseFinal.PNG?raw=true)
 
 <img width="780" height="530" alt="image" src="https://github.com/user-attachments/assets/b12b9da3-0b11-4c25-9df3-070d53a47a3a" />
 
 
-![Final cost](https://github.com/Enzo13221/SimplySplit/blob/main/Images/Updatedcost.PNG?raw=true)
 
 <img width="1918" height="938" alt="image" src="https://github.com/user-attachments/assets/9e862417-6b98-486a-ac5b-63b5f2d21f95" />
+
+
 
 # Firmware can be found here
 
